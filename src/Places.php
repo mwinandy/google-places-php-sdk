@@ -103,7 +103,7 @@ class Places
     */
     public function response($output)
     {
-        return ($output) ?? null;
+        return ($output);
     }
 
 
